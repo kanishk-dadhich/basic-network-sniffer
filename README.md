@@ -11,7 +11,7 @@ sniff: This function captures packets. The prn parameter specifies the callback 
 Running the Script
 To run the script, you typically need superuser (root) privileges because capturing network packets requires elevated permissions:
 
-sh
+
 Copy code
 sudo python network_sniffer.py
 Enhancements
